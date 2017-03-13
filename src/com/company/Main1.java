@@ -18,7 +18,7 @@ P. S. Все это должно быть реализовано только н
 
             car1 = new Car(); // Создаёт объект в памяти
 
-            car1.setCar("Lada","sedan",   "red",  1840);
+            car1.setCar("Honda","sedan",   "red",  1840);
 
             System.out.println(car1.getCar());
 
